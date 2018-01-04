@@ -7,3 +7,5 @@ npm start
 day-1 to day-3: ReactJS Basics and advanced
 day-4: ReactJS Manual Approach
 day-6: Router Concepts
+
+http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
