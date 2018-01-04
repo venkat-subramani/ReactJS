@@ -1,0 +1,9 @@
+install node.js
+npm i -g create-react-app
+create-react-app hello-world
+cd hello-world
+npm start
+
+day-1 to day-3: ReactJS Basics and advanced
+day-4: ReactJS Manual Approach
+day-6: Router Concepts
